@@ -1,14 +1,18 @@
 
-```
-   _____  ____  __________________.___.
-  /  _  \ \   \/  /\____    /\__  |   |
- /  /_\  \ \     /   /     /  /   |   |
-/    |    \/     \  /     /_  \____   |
-\____|__  /___/\  \/_______ \ / ______|
-        \/      \_/        \/ \/
+```                                                              
+      _____                     _____        _____      _____ 
+  ___|\    \  _____      _____ /    /|___   |\    \    /    /|
+ /    /\    \ \    \    /    //    /|    |  | \    \  /    / |
+|    |  |    | \    \  /    /|\____\|    |  |  \____\/    /  /
+|    |__|    |  \____\/____/ | |   |/    |___\ |    /    /  / 
+|    .--.    |  /    /\    \  \|___/    /    |\|___/    /  /  
+|    |  |    | /    /  \    \    /     /|    |    /    /  /   
+|____|  |____|/____/ /\ \____\  |_____|/____/|   /____/  /    
+|    |  |    ||    |/  \|    |  |     |    | |  |`    | /     
+|____|  |____||____|    |____|  |_____|____|/   |_____|/          
 ```
 ## Minecraft Bot
-This is a simple minecraft bot tool to spam players and spam chats, supports all versions of minecraft java, the weakness is only 1 which is on servers that use chaptcha registers
+This is a simple minecraft bot tool to spam players and spam chats, supports all versions of minecraft java, the weakness is only 1 which is on servers that use chaptcha registers. Use it only for education, I am not responsible for the bad actions you committed. Selling scripts is prohibited
 ## Feature
 - Input IP and target port
 - Version Options
