@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mineflayer": "^4.0.0",
+    "mineflayer": "^4.27.0",
     "proxy-agent": "^6.5.0",
     "socks-proxy-agent": "^8.0.5"
   }
