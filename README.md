@@ -24,3 +24,13 @@ This is a simple minecraft bot tool to spam players and spam chats, supports all
 ## About Comand 
 - Run cmd 'node bot.js'
 - Proxy 'http://ip:port' 'socks5://ip:port'
+
+
+## Node.Js Instal
+```
+sudo apt update
+sudo apt install curl -y
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install nodejs -y
+node bot.js
+```
